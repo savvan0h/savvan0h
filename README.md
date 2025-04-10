@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-readiness-card.svg" alt="My Oura Weekly Readiness">
-</p>
+[![My Oura Weekly Readiness](https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-readiness-card.svg)](https://github.com/savvan0h/oura-profile-cards)
 
 ---
 
