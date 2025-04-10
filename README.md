@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![](https://raw.githubusercontent.com/savvan0h/savvan0h/refs/heads/master/oura-profile-card-output/card-readiness-week.svg)](https://github.com/savvan0h/oura-profile-cards)
+[![](https://raw.githubusercontent.com/savvan0h/savvan0h/refs/heads/master/oura-profile-card-output/weekly-readiness-card.svg)](https://github.com/savvan0h/oura-profile-cards)
