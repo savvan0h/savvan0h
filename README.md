@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/hiroki-sawano/hiroki-sawano/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiroki-sawano/hiroki-sawano/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://raw.githubusercontent.com/hiroki-sawano/hiroki-sawano/master/profile-summary-card-output/github/4-productive-time.svg)
+
+---
+
+[![](https://raw.githubusercontent.com/savvan0h/savvan0h/refs/heads/master/oura-profile-card-output/card-readiness-week.svg)](https://github.com/savvan0h/oura-profile-cards)
