@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-04-06 → 2025-04-13
+    2025-04-07 → 2025-04-13
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,184.59459459459458 L 157.14285714285714,139.18918918918916 L 234.28571428571428,192.16216216216216 L 311.42857142857144,211.0810810810811 L 388.57142857142856,184.59459459459458 L 465.71428571428567,146.75675675675677 L 542.8571428571429,207.2972972972973 L 620,146.75675675675677" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,139.18918918918916 L 170,192.16216216216216 L 260,211.0810810810811 L 350,184.59459459459458 L 440,146.75675675675677 L 530,207.2972972972973 L 620,146.75675675675677" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="184.59459459459458" r="4" fill="#ffffff" />
-<circle cx="157.14285714285714" cy="139.18918918918916" r="4" fill="#ffffff" />
-<circle cx="234.28571428571428" cy="192.16216216216216" r="4" fill="#ffffff" />
-<circle cx="311.42857142857144" cy="211.0810810810811" r="4" fill="#ffffff" />
-<circle cx="388.57142857142856" cy="184.59459459459458" r="4" fill="#ffffff" />
-<circle cx="465.71428571428567" cy="146.75675675675677" r="4" fill="#ffffff" />
-<circle cx="542.8571428571429" cy="207.2972972972973" r="4" fill="#ffffff" />
+  <circle cx="80" cy="139.18918918918916" r="4" fill="#ffffff" />
+<circle cx="170" cy="192.16216216216216" r="4" fill="#ffffff" />
+<circle cx="260" cy="211.0810810810811" r="4" fill="#ffffff" />
+<circle cx="350" cy="184.59459459459458" r="4" fill="#ffffff" />
+<circle cx="440" cy="146.75675675675677" r="4" fill="#ffffff" />
+<circle cx="530" cy="207.2972972972973" r="4" fill="#ffffff" />
 <circle cx="620" cy="146.75675675675677" r="4" fill="#ffffff" />
 
 
@@ -61,35 +60,30 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        04-06
-      </text>
-    
-      <text x="157.14285714285714" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         04-07
       </text>
     
-      <text x="234.28571428571428" y="245" text-anchor="middle"
+      <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         04-08
       </text>
     
-      <text x="311.42857142857144" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         04-09
       </text>
     
-      <text x="388.57142857142856" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         04-10
       </text>
     
-      <text x="465.71428571428567" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         04-11
       </text>
     
-      <text x="542.8571428571429" y="245" text-anchor="middle"
+      <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         04-12
       </text>
