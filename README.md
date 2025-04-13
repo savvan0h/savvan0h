@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![My Oura Weekly Readiness](https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-readiness-card.svg)](https://github.com/savvan0h/oura-profile-cards)
+[![My Oura Weekly Sleep](https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-sleep-card.svg)](https://github.com/savvan0h/oura-profile-cards)
 
 ---
 
