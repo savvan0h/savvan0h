@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-05-03 → 2025-05-09
+    2025-05-04 → 2025-05-09
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,142.15686274509804 L 170,180.58823529411765 L 260,158.62745098039215 L 350,216.27450980392157 L 440,172.3529411764706 L 530,144.90196078431373 L 620,191.5686274509804" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,180.58823529411765 L 188,158.62745098039215 L 296,216.27450980392157 L 404,172.3529411764706 L 512,144.90196078431373 L 620,191.5686274509804" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="142.15686274509804" r="4" fill="#ffffff" />
-<circle cx="170" cy="180.58823529411765" r="4" fill="#ffffff" />
-<circle cx="260" cy="158.62745098039215" r="4" fill="#ffffff" />
-<circle cx="350" cy="216.27450980392157" r="4" fill="#ffffff" />
-<circle cx="440" cy="172.3529411764706" r="4" fill="#ffffff" />
-<circle cx="530" cy="144.90196078431373" r="4" fill="#ffffff" />
+    <circle cx="80" cy="180.58823529411765" r="4" fill="#ffffff" />
+<circle cx="188" cy="158.62745098039215" r="4" fill="#ffffff" />
+<circle cx="296" cy="216.27450980392157" r="4" fill="#ffffff" />
+<circle cx="404" cy="172.3529411764706" r="4" fill="#ffffff" />
+<circle cx="512" cy="144.90196078431373" r="4" fill="#ffffff" />
 <circle cx="620" cy="191.5686274509804" r="4" fill="#ffffff" />
 
   </g>
@@ -62,30 +61,25 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        05-03
-      </text>
-    
-      <text x="170" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         05-04
       </text>
     
-      <text x="260" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         05-05
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         05-06
       </text>
     
-      <text x="440" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         05-07
       </text>
     
-      <text x="530" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         05-08
       </text>
