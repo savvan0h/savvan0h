@@ -19,23 +19,23 @@
   <!-- Dotted Threshold Lines & Labels -->
   <g id="extra-lines">
     
-        <line x1="80" y1="210" x2="620" y2="210"
+        <line x1="80" y1="210.55555555555554" x2="620" y2="210.55555555555554"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="214" text-anchor="start"
+        <text x="630" y="214.55555555555554" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           60 (Fair)
         </text>
       
-        <line x1="80" y1="170" x2="620" y2="170"
+        <line x1="80" y1="171.66666666666666" x2="620" y2="171.66666666666666"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="174" text-anchor="start"
+        <text x="630" y="175.66666666666666" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           70 (Good)
         </text>
       
-        <line x1="80" y1="110" x2="620" y2="110"
+        <line x1="80" y1="113.33333333333333" x2="620" y2="113.33333333333333"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="114" text-anchor="start"
+        <text x="630" y="117.33333333333333" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           85 (Optimal)
         </text>
@@ -43,16 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,146 L 170,186 L 260,130 L 350,110 L 440,150 L 530,174 L 620,110" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,148.33333333333331 L 170,187.22222222222223 L 260,132.77777777777777 L 350,113.33333333333333 L 440,152.22222222222223 L 530,175.55555555555554 L 620,109.44444444444444" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="146" r="4" fill="#ffffff" />
-<circle cx="170" cy="186" r="4" fill="#ffffff" />
-<circle cx="260" cy="130" r="4" fill="#ffffff" />
-<circle cx="350" cy="110" r="4" fill="#ffffff" />
-<circle cx="440" cy="150" r="4" fill="#ffffff" />
-<circle cx="530" cy="174" r="4" fill="#ffffff" />
-<circle cx="620" cy="110" r="4" fill="#ffffff" />
+  <circle cx="80" cy="148.33333333333331" r="4" fill="#ffffff" />
+<circle cx="170" cy="187.22222222222223" r="4" fill="#ffffff" />
+<circle cx="260" cy="132.77777777777777" r="4" fill="#ffffff" />
+<circle cx="350" cy="113.33333333333333" r="4" fill="#ffffff" />
+<circle cx="440" cy="152.22222222222223" r="4" fill="#ffffff" />
+<circle cx="530" cy="175.55555555555554" r="4" fill="#ffffff" />
+<circle cx="620" cy="109.44444444444444" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -115,17 +115,17 @@
     
       <text x="70" y="150" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        76
+        77
       </text>
     
       <text x="70" y="122" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        83
+        84
       </text>
     
       <text x="70" y="94" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        90
+        91
       </text>
     
   </g>
