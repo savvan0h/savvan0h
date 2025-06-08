@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-06-01 → 2025-06-06
+    2025-06-02 → 2025-06-06
   </text>
 
   <!-- Chart Area -->
@@ -43,13 +43,12 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,128.5 L 215,121.5 L 350,212.5 L 485,107.5 L 620,111" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,121.5 L 260,212.5 L 440,107.5 L 620,111" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="128.5" r="4" fill="#ffffff" />
-<circle cx="215" cy="121.5" r="4" fill="#ffffff" />
-<circle cx="350" cy="212.5" r="4" fill="#ffffff" />
-<circle cx="485" cy="107.5" r="4" fill="#ffffff" />
+  <circle cx="80" cy="121.5" r="4" fill="#ffffff" />
+<circle cx="260" cy="212.5" r="4" fill="#ffffff" />
+<circle cx="440" cy="107.5" r="4" fill="#ffffff" />
 <circle cx="620" cy="111" r="4" fill="#ffffff" />
 
 
@@ -58,20 +57,15 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        06-01
-      </text>
-    
-      <text x="215" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-02
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-03
       </text>
     
-      <text x="485" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-05
       </text>
