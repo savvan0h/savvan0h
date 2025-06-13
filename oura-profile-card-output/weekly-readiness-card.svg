@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-06-06 → 2025-06-12
+    2025-06-11 → 2025-06-12
   </text>
 
   <!-- Chart Area -->
@@ -43,11 +43,10 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,113.99999999999999 L 350,134 L 620,170" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,134 L 620,170" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="113.99999999999999" r="4" fill="#ffffff" />
-<circle cx="350" cy="134" r="4" fill="#ffffff" />
+  <circle cx="80" cy="134" r="4" fill="#ffffff" />
 <circle cx="620" cy="170" r="4" fill="#ffffff" />
 
 
@@ -55,11 +54,6 @@
   <g class="x-ticks">
     
       <text x="80" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        06-06
-      </text>
-    
-      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-11
       </text>
