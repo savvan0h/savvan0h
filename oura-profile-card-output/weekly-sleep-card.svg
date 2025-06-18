@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-06-11 → 2025-06-17
+    2025-06-12 → 2025-06-17
   </text>
 
   <!-- Chart Area -->
@@ -43,15 +43,14 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,168.0769230769231 L 188,160 L 296,111.53846153846153 L 404,168.0769230769231 L 512,216.53846153846155 L 620,170.76923076923077" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,160 L 215,111.53846153846153 L 350,168.0769230769231 L 485,216.53846153846155 L 620,170.76923076923077" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="168.0769230769231" r="4" fill="#ffffff" />
-<circle cx="188" cy="160" r="4" fill="#ffffff" />
-<circle cx="296" cy="111.53846153846153" r="4" fill="#ffffff" />
-<circle cx="404" cy="168.0769230769231" r="4" fill="#ffffff" />
-<circle cx="512" cy="216.53846153846155" r="4" fill="#ffffff" />
+    <circle cx="80" cy="160" r="4" fill="#ffffff" />
+<circle cx="215" cy="111.53846153846153" r="4" fill="#ffffff" />
+<circle cx="350" cy="168.0769230769231" r="4" fill="#ffffff" />
+<circle cx="485" cy="216.53846153846155" r="4" fill="#ffffff" />
 <circle cx="620" cy="170.76923076923077" r="4" fill="#ffffff" />
 
   </g>
@@ -61,25 +60,20 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        06-11
-      </text>
-    
-      <text x="188" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-12
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="215" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-13
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-14
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="485" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-15
       </text>
