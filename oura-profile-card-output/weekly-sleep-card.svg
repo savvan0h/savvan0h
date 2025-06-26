@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-06-20 → 2025-06-25
+    2025-06-20 → 2025-06-26
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,17 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,154.8148148148148 L 188,170.37037037037038 L 296,154.8148148148148 L 404,217.03703703703704 L 512,178.14814814814815 L 620,110.74074074074073" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,154.8148148148148 L 170,170.37037037037038 L 260,154.8148148148148 L 350,217.03703703703704 L 440,178.14814814814815 L 530,110.74074074074073 L 620,191.11111111111111" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
     <circle cx="80" cy="154.8148148148148" r="4" fill="#ffffff" />
-<circle cx="188" cy="170.37037037037038" r="4" fill="#ffffff" />
-<circle cx="296" cy="154.8148148148148" r="4" fill="#ffffff" />
-<circle cx="404" cy="217.03703703703704" r="4" fill="#ffffff" />
-<circle cx="512" cy="178.14814814814815" r="4" fill="#ffffff" />
-<circle cx="620" cy="110.74074074074073" r="4" fill="#ffffff" />
+<circle cx="170" cy="170.37037037037038" r="4" fill="#ffffff" />
+<circle cx="260" cy="154.8148148148148" r="4" fill="#ffffff" />
+<circle cx="350" cy="217.03703703703704" r="4" fill="#ffffff" />
+<circle cx="440" cy="178.14814814814815" r="4" fill="#ffffff" />
+<circle cx="530" cy="110.74074074074073" r="4" fill="#ffffff" />
+<circle cx="620" cy="191.11111111111111" r="4" fill="#ffffff" />
 
   </g>
 
@@ -64,29 +65,34 @@
         06-20
       </text>
     
-      <text x="188" y="245" text-anchor="middle"
+      <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-21
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-22
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-23
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-24
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-25
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        06-26
       </text>
     
   </g>
