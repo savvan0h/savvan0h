@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-07-09 → 2025-07-09
+    2025-07-09 → 2025-07-10
   </text>
 
   <!-- Chart Area -->
@@ -19,23 +19,23 @@
   <!-- Dotted Threshold Lines & Labels -->
   <g id="extra-lines">
     
-        <line x1="80" y1="210" x2="620" y2="210"
+        <line x1="80" y1="190" x2="620" y2="190"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="214" text-anchor="start"
+        <text x="630" y="194" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           60 (Fair)
         </text>
       
-        <line x1="80" y1="170" x2="620" y2="170"
+        <line x1="80" y1="156.66666666666666" x2="620" y2="156.66666666666666"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="174" text-anchor="start"
+        <text x="630" y="160.66666666666666" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           70 (Good)
         </text>
       
-        <line x1="80" y1="110" x2="620" y2="110"
+        <line x1="80" y1="106.66666666666667" x2="620" y2="106.66666666666667"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="114" text-anchor="start"
+        <text x="630" y="110.66666666666667" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           85 (Optimal)
         </text>
@@ -43,11 +43,12 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,146" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,136.66666666666669 L 620,213.33333333333334" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="146" r="4" fill="#ffffff" />
+    <circle cx="80" cy="136.66666666666669" r="4" fill="#ffffff" />
+<circle cx="620" cy="213.33333333333334" r="4" fill="#ffffff" />
 
   </g>
 
@@ -59,6 +60,11 @@
         07-09
       </text>
     
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        07-10
+      </text>
+    
   </g>
 
   <!-- Y-axis Tick Labels -->
@@ -66,27 +72,27 @@
     
       <text x="70" y="234" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        55
+        48
       </text>
     
       <text x="70" y="206" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        62
+        56
       </text>
     
       <text x="70" y="178" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        69
+        65
       </text>
     
       <text x="70" y="150" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        76
+        73
       </text>
     
       <text x="70" y="122" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        83
+        82
       </text>
     
       <text x="70" y="94" text-anchor="end"
