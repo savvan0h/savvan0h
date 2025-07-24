@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-07-18 → 2025-07-23
+    2025-07-18 → 2025-07-24
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,178 L 188,158 L 296,166 L 404,110 L 512,113.99999999999999 L 620,154" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,178 L 170,158 L 260,166 L 350,110 L 440,113.99999999999999 L 530,154 L 620,154" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="178" r="4" fill="#ffffff" />
-<circle cx="188" cy="158" r="4" fill="#ffffff" />
-<circle cx="296" cy="166" r="4" fill="#ffffff" />
-<circle cx="404" cy="110" r="4" fill="#ffffff" />
-<circle cx="512" cy="113.99999999999999" r="4" fill="#ffffff" />
+<circle cx="170" cy="158" r="4" fill="#ffffff" />
+<circle cx="260" cy="166" r="4" fill="#ffffff" />
+<circle cx="350" cy="110" r="4" fill="#ffffff" />
+<circle cx="440" cy="113.99999999999999" r="4" fill="#ffffff" />
+<circle cx="530" cy="154" r="4" fill="#ffffff" />
 <circle cx="620" cy="154" r="4" fill="#ffffff" />
 
 
@@ -62,29 +63,34 @@
         07-18
       </text>
     
-      <text x="188" y="245" text-anchor="middle"
+      <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-19
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-20
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-21
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-22
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-23
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        07-24
       </text>
     
   </g>
