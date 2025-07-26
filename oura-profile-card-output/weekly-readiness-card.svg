@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-07-19 → 2025-07-24
+    2025-07-20 → 2025-07-24
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,13 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,158 L 188,166 L 296,110 L 404,113.99999999999999 L 512,154 L 620,154" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,166 L 215,110 L 350,113.99999999999999 L 485,154 L 620,154" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="158" r="4" fill="#ffffff" />
-<circle cx="188" cy="166" r="4" fill="#ffffff" />
-<circle cx="296" cy="110" r="4" fill="#ffffff" />
-<circle cx="404" cy="113.99999999999999" r="4" fill="#ffffff" />
-<circle cx="512" cy="154" r="4" fill="#ffffff" />
+  <circle cx="80" cy="166" r="4" fill="#ffffff" />
+<circle cx="215" cy="110" r="4" fill="#ffffff" />
+<circle cx="350" cy="113.99999999999999" r="4" fill="#ffffff" />
+<circle cx="485" cy="154" r="4" fill="#ffffff" />
 <circle cx="620" cy="154" r="4" fill="#ffffff" />
 
 
@@ -59,25 +58,20 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        07-19
-      </text>
-    
-      <text x="188" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-20
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="215" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-21
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-22
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="485" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-23
       </text>
