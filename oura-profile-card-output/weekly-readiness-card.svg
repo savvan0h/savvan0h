@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-07-23 → 2025-07-28
+    2025-07-23 → 2025-07-29
   </text>
 
   <!-- Chart Area -->
@@ -43,15 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,154 L 188,154 L 296,130 L 404,162 L 512,142 L 620,113.99999999999999" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,154 L 170,154 L 260,130 L 350,162 L 440,142 L 530,113.99999999999999 L 620,150" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="154" r="4" fill="#ffffff" />
-<circle cx="188" cy="154" r="4" fill="#ffffff" />
-<circle cx="296" cy="130" r="4" fill="#ffffff" />
-<circle cx="404" cy="162" r="4" fill="#ffffff" />
-<circle cx="512" cy="142" r="4" fill="#ffffff" />
-<circle cx="620" cy="113.99999999999999" r="4" fill="#ffffff" />
+<circle cx="170" cy="154" r="4" fill="#ffffff" />
+<circle cx="260" cy="130" r="4" fill="#ffffff" />
+<circle cx="350" cy="162" r="4" fill="#ffffff" />
+<circle cx="440" cy="142" r="4" fill="#ffffff" />
+<circle cx="530" cy="113.99999999999999" r="4" fill="#ffffff" />
+<circle cx="620" cy="150" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -62,29 +63,34 @@
         07-23
       </text>
     
-      <text x="188" y="245" text-anchor="middle"
+      <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-24
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-25
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-26
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-27
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         07-28
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        07-29
       </text>
     
   </g>
