@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## 💤 My Oura Metrics
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-readiness-card.svg" alt="My Oura Weekly Readiness" width="500" />
-  <img src="https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-sleep-card.svg" alt="My Oura Weekly Sleep" width="500" />
+  <img src="https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-readiness-card.svg" alt="My Oura Weekly Readiness" width="400" />
+  <img src="https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-sleep-card.svg" alt="My Oura Weekly Sleep" width="400" />
 </p>
