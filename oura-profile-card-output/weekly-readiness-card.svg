@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-07-26 → 2025-08-01
+    2025-07-27 → 2025-08-02
   </text>
 
   <!-- Chart Area -->
@@ -19,23 +19,23 @@
   <!-- Dotted Threshold Lines & Labels -->
   <g id="extra-lines">
     
-        <line x1="80" y1="203.51351351351352" x2="620" y2="203.51351351351352"
+        <line x1="80" y1="187.67441860465118" x2="620" y2="187.67441860465118"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="207.51351351351352" text-anchor="start"
+        <text x="630" y="191.67441860465118" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           60 (Fair)
         </text>
       
-        <line x1="80" y1="165.67567567567568" x2="620" y2="165.67567567567568"
+        <line x1="80" y1="155.11627906976744" x2="620" y2="155.11627906976744"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="169.67567567567568" text-anchor="start"
+        <text x="630" y="159.11627906976744" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           70 (Good)
         </text>
       
-        <line x1="80" y1="108.9189189189189" x2="620" y2="108.9189189189189"
+        <line x1="80" y1="106.27906976744185" x2="620" y2="106.27906976744185"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="112.9189189189189" text-anchor="start"
+        <text x="630" y="110.27906976744185" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           85 (Optimal)
         </text>
@@ -43,16 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,158.10810810810813 L 170,139.18918918918916 L 260,112.70270270270271 L 350,146.75675675675677 L 440,161.89189189189187 L 530,146.75675675675677 L 620,211.0810810810811" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,132.32558139534882 L 170,109.53488372093024 L 260,138.83720930232556 L 350,151.86046511627907 L 440,138.83720930232556 L 530,194.18604651162792 L 620,213.72093023255815" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="158.10810810810813" r="4" fill="#ffffff" />
-<circle cx="170" cy="139.18918918918916" r="4" fill="#ffffff" />
-<circle cx="260" cy="112.70270270270271" r="4" fill="#ffffff" />
-<circle cx="350" cy="146.75675675675677" r="4" fill="#ffffff" />
-<circle cx="440" cy="161.89189189189187" r="4" fill="#ffffff" />
-<circle cx="530" cy="146.75675675675677" r="4" fill="#ffffff" />
-<circle cx="620" cy="211.0810810810811" r="4" fill="#ffffff" />
+  <circle cx="80" cy="132.32558139534882" r="4" fill="#ffffff" />
+<circle cx="170" cy="109.53488372093024" r="4" fill="#ffffff" />
+<circle cx="260" cy="138.83720930232556" r="4" fill="#ffffff" />
+<circle cx="350" cy="151.86046511627907" r="4" fill="#ffffff" />
+<circle cx="440" cy="138.83720930232556" r="4" fill="#ffffff" />
+<circle cx="530" cy="194.18604651162792" r="4" fill="#ffffff" />
+<circle cx="620" cy="213.72093023255815" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -60,37 +60,37 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        07-26
+        07-27
       </text>
     
       <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        07-27
+        07-28
       </text>
     
       <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        07-28
+        07-29
       </text>
     
       <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        07-29
+        07-30
       </text>
     
       <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        07-30
+        07-31
       </text>
     
       <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        07-31
+        08-01
       </text>
     
       <text x="620" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-01
+        08-02
       </text>
     
   </g>
@@ -100,27 +100,27 @@
     
       <text x="70" y="234" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        53
+        47
       </text>
     
       <text x="70" y="206" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        60
+        56
       </text>
     
       <text x="70" y="178" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        68
+        64
       </text>
     
       <text x="70" y="150" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        75
+        73
       </text>
     
       <text x="70" y="122" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        83
+        81
       </text>
     
       <text x="70" y="94" text-anchor="end"
