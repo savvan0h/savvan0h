@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-08-07 → 2025-08-13
+    2025-08-08 → 2025-08-14
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,184.5 L 170,135.5 L 260,181 L 350,212.5 L 440,146 L 530,181 L 620,107.5" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,135.5 L 170,181 L 260,212.5 L 350,146 L 440,181 L 530,107.5 L 620,205.5" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="184.5" r="4" fill="#ffffff" />
-<circle cx="170" cy="135.5" r="4" fill="#ffffff" />
-<circle cx="260" cy="181" r="4" fill="#ffffff" />
-<circle cx="350" cy="212.5" r="4" fill="#ffffff" />
-<circle cx="440" cy="146" r="4" fill="#ffffff" />
-<circle cx="530" cy="181" r="4" fill="#ffffff" />
-<circle cx="620" cy="107.5" r="4" fill="#ffffff" />
+  <circle cx="80" cy="135.5" r="4" fill="#ffffff" />
+<circle cx="170" cy="181" r="4" fill="#ffffff" />
+<circle cx="260" cy="212.5" r="4" fill="#ffffff" />
+<circle cx="350" cy="146" r="4" fill="#ffffff" />
+<circle cx="440" cy="181" r="4" fill="#ffffff" />
+<circle cx="530" cy="107.5" r="4" fill="#ffffff" />
+<circle cx="620" cy="205.5" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -60,37 +60,37 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-07
+        08-08
       </text>
     
       <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-08
+        08-09
       </text>
     
       <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-09
+        08-10
       </text>
     
       <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-10
+        08-11
       </text>
     
       <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-11
+        08-12
       </text>
     
       <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-12
+        08-13
       </text>
     
       <text x="620" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-13
+        08-14
       </text>
     
   </g>
