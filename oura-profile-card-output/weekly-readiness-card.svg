@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-08-10 → 2025-08-14
+    2025-08-10 → 2025-08-16
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,212.5 L 215,146 L 350,181 L 485,107.5 L 620,153" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,212.5 L 188,146 L 296,181 L 404,107.5 L 512,153 L 620,205.5" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="212.5" r="4" fill="#ffffff" />
-<circle cx="215" cy="146" r="4" fill="#ffffff" />
-<circle cx="350" cy="181" r="4" fill="#ffffff" />
-<circle cx="485" cy="107.5" r="4" fill="#ffffff" />
-<circle cx="620" cy="153" r="4" fill="#ffffff" />
+<circle cx="188" cy="146" r="4" fill="#ffffff" />
+<circle cx="296" cy="181" r="4" fill="#ffffff" />
+<circle cx="404" cy="107.5" r="4" fill="#ffffff" />
+<circle cx="512" cy="153" r="4" fill="#ffffff" />
+<circle cx="620" cy="205.5" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -61,24 +62,29 @@
         08-10
       </text>
     
-      <text x="215" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-11
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-12
       </text>
     
-      <text x="485" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-13
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-14
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        08-16
       </text>
     
   </g>
