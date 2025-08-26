@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-08-19 → 2025-08-23
+    2025-08-20 → 2025-08-23
   </text>
 
   <!-- Chart Area -->
@@ -43,13 +43,12 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,178.57142857142856 L 215,104.28571428571429 L 350,215.71428571428572 L 485,167.14285714285714 L 620,152.85714285714286" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,104.28571428571429 L 260,215.71428571428572 L 440,167.14285714285714 L 620,152.85714285714286" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="178.57142857142856" r="4" fill="#ffffff" />
-<circle cx="215" cy="104.28571428571429" r="4" fill="#ffffff" />
-<circle cx="350" cy="215.71428571428572" r="4" fill="#ffffff" />
-<circle cx="485" cy="167.14285714285714" r="4" fill="#ffffff" />
+  <circle cx="80" cy="104.28571428571429" r="4" fill="#ffffff" />
+<circle cx="260" cy="215.71428571428572" r="4" fill="#ffffff" />
+<circle cx="440" cy="167.14285714285714" r="4" fill="#ffffff" />
 <circle cx="620" cy="152.85714285714286" r="4" fill="#ffffff" />
 
 
@@ -58,20 +57,15 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-19
-      </text>
-    
-      <text x="215" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-20
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-21
       </text>
     
-      <text x="485" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-22
       </text>
