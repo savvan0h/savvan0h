@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-08-21 → 2025-08-23
+    2025-08-21 → 2025-08-27
   </text>
 
   <!-- Chart Area -->
@@ -43,12 +43,13 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,215.10638297872342 L 350,164.46808510638297 L 620,149.5744680851064" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,215.10638297872342 L 260,164.46808510638297 L 440,149.5744680851064 L 620,179.36170212765956" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="215.10638297872342" r="4" fill="#ffffff" />
-<circle cx="350" cy="164.46808510638297" r="4" fill="#ffffff" />
-<circle cx="620" cy="149.5744680851064" r="4" fill="#ffffff" />
+<circle cx="260" cy="164.46808510638297" r="4" fill="#ffffff" />
+<circle cx="440" cy="149.5744680851064" r="4" fill="#ffffff" />
+<circle cx="620" cy="179.36170212765956" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -59,14 +60,19 @@
         08-21
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-22
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-23
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        08-27
       </text>
     
   </g>
