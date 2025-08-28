@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-08-21 → 2025-08-27
+    2025-08-22 → 2025-08-27
   </text>
 
   <!-- Chart Area -->
@@ -19,23 +19,23 @@
   <!-- Dotted Threshold Lines & Labels -->
   <g id="extra-lines">
     
-        <line x1="80" y1="163.68421052631578" x2="620" y2="163.68421052631578"
+        <line x1="80" y1="172.3529411764706" x2="620" y2="172.3529411764706"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="167.68421052631578" text-anchor="start"
+        <text x="630" y="176.3529411764706" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           60 (Fair)
         </text>
       
-        <line x1="80" y1="139.12280701754386" x2="620" y2="139.12280701754386"
+        <line x1="80" y1="144.90196078431373" x2="620" y2="144.90196078431373"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="143.12280701754386" text-anchor="start"
+        <text x="630" y="148.90196078431373" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           70 (Good)
         </text>
       
-        <line x1="80" y1="102.28070175438597" x2="620" y2="102.28070175438597"
+        <line x1="80" y1="103.72549019607843" x2="620" y2="103.72549019607843"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="106.28070175438597" text-anchor="start"
+        <text x="630" y="107.72549019607843" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           85 (Optimal)
         </text>
@@ -43,14 +43,13 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,217.71929824561403 L 260,173.50877192982455 L 440,151.40350877192984 L 620,202.98245614035088" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,183.33333333333334 L 350,158.62745098039215 L 620,216.27450980392157" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="217.71929824561403" r="4" fill="#ffffff" />
-<circle cx="260" cy="173.50877192982455" r="4" fill="#ffffff" />
-<circle cx="440" cy="151.40350877192984" r="4" fill="#ffffff" />
-<circle cx="620" cy="202.98245614035088" r="4" fill="#ffffff" />
+    <circle cx="80" cy="183.33333333333334" r="4" fill="#ffffff" />
+<circle cx="350" cy="158.62745098039215" r="4" fill="#ffffff" />
+<circle cx="620" cy="216.27450980392157" r="4" fill="#ffffff" />
 
   </g>
 
@@ -59,15 +58,10 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        08-21
-      </text>
-    
-      <text x="260" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-22
       </text>
     
-      <text x="440" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-23
       </text>
@@ -84,27 +78,27 @@
     
       <text x="70" y="234" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        33
+        39
       </text>
     
       <text x="70" y="206" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        44
+        49
       </text>
     
       <text x="70" y="178" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        56
+        59
       </text>
     
       <text x="70" y="150" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        67
+        70
       </text>
     
       <text x="70" y="122" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        79
+        80
       </text>
     
       <text x="70" y="94" text-anchor="end"
