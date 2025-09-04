@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-09-03 → 2025-09-03
+    2025-09-03 → 2025-09-04
   </text>
 
   <!-- Chart Area -->
@@ -43,11 +43,12 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,190" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,190 L 620,174" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
     <circle cx="80" cy="190" r="4" fill="#ffffff" />
+<circle cx="620" cy="174" r="4" fill="#ffffff" />
 
   </g>
 
@@ -57,6 +58,11 @@
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-03
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        09-04
       </text>
     
   </g>
