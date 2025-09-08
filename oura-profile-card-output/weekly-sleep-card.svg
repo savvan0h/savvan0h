@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-09-03 → 2025-09-07
+    2025-09-03 → 2025-09-08
   </text>
 
   <!-- Chart Area -->
@@ -43,15 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,173.33333333333334 L 215,160 L 350,213.33333333333334 L 485,190 L 620,200" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,173.33333333333334 L 188,160 L 296,213.33333333333334 L 404,190 L 512,200 L 620,116.66666666666667" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
     <circle cx="80" cy="173.33333333333334" r="4" fill="#ffffff" />
-<circle cx="215" cy="160" r="4" fill="#ffffff" />
-<circle cx="350" cy="213.33333333333334" r="4" fill="#ffffff" />
-<circle cx="485" cy="190" r="4" fill="#ffffff" />
-<circle cx="620" cy="200" r="4" fill="#ffffff" />
+<circle cx="188" cy="160" r="4" fill="#ffffff" />
+<circle cx="296" cy="213.33333333333334" r="4" fill="#ffffff" />
+<circle cx="404" cy="190" r="4" fill="#ffffff" />
+<circle cx="512" cy="200" r="4" fill="#ffffff" />
+<circle cx="620" cy="116.66666666666667" r="4" fill="#ffffff" />
 
   </g>
 
@@ -63,24 +64,29 @@
         09-03
       </text>
     
-      <text x="215" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-04
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-05
       </text>
     
-      <text x="485" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-06
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-07
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        09-08
       </text>
     
   </g>
