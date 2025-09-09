@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-09-03 → 2025-09-08
+    2025-09-03 → 2025-09-09
   </text>
 
   <!-- Chart Area -->
@@ -43,15 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,156.31578947368422 L 188,174.73684210526315 L 296,196.8421052631579 L 404,174.73684210526315 L 512,156.31578947368422 L 620,108.42105263157895" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,156.31578947368422 L 170,174.73684210526315 L 260,196.8421052631579 L 350,174.73684210526315 L 440,156.31578947368422 L 530,108.42105263157895 L 620,193.1578947368421" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="156.31578947368422" r="4" fill="#ffffff" />
-<circle cx="188" cy="174.73684210526315" r="4" fill="#ffffff" />
-<circle cx="296" cy="196.8421052631579" r="4" fill="#ffffff" />
-<circle cx="404" cy="174.73684210526315" r="4" fill="#ffffff" />
-<circle cx="512" cy="156.31578947368422" r="4" fill="#ffffff" />
-<circle cx="620" cy="108.42105263157895" r="4" fill="#ffffff" />
+<circle cx="170" cy="174.73684210526315" r="4" fill="#ffffff" />
+<circle cx="260" cy="196.8421052631579" r="4" fill="#ffffff" />
+<circle cx="350" cy="174.73684210526315" r="4" fill="#ffffff" />
+<circle cx="440" cy="156.31578947368422" r="4" fill="#ffffff" />
+<circle cx="530" cy="108.42105263157895" r="4" fill="#ffffff" />
+<circle cx="620" cy="193.1578947368421" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -62,29 +63,34 @@
         09-03
       </text>
     
-      <text x="188" y="245" text-anchor="middle"
+      <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-04
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-05
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-06
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-07
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-08
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        09-09
       </text>
     
   </g>
