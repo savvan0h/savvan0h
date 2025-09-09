@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-readiness-card.svg" alt="My Oura Weekly Readiness" width="400" />
   <img src="https://raw.githubusercontent.com/savvan0h/savvan0h/master/oura-profile-card-output/weekly-sleep-card.svg" alt="My Oura Weekly Sleep" width="400" />
 </p>
+
+*Generated using [oura-profile-cards](https://github.com/savvan0h/oura-profile-cards).*
