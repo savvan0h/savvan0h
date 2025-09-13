@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: savvan0h/oura-profile-cards@v0.1.0
+      - uses: savvan0h/oura-profile-cards@main
         with:
           OURA_API_TOKEN: ${{ secrets.OURA_API_TOKEN }}
