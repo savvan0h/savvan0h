@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-09-15 → 2025-09-21
+    2025-09-16 → 2025-09-21
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,148.33333333333331 L 170,187.22222222222223 L 260,210.55555555555554 L 350,171.66666666666666 L 440,175.55555555555554 L 530,195 L 620,152.22222222222223" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,187.22222222222223 L 188,210.55555555555554 L 296,171.66666666666666 L 404,175.55555555555554 L 512,195 L 620,152.22222222222223" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="148.33333333333331" r="4" fill="#ffffff" />
-<circle cx="170" cy="187.22222222222223" r="4" fill="#ffffff" />
-<circle cx="260" cy="210.55555555555554" r="4" fill="#ffffff" />
-<circle cx="350" cy="171.66666666666666" r="4" fill="#ffffff" />
-<circle cx="440" cy="175.55555555555554" r="4" fill="#ffffff" />
-<circle cx="530" cy="195" r="4" fill="#ffffff" />
+    <circle cx="80" cy="187.22222222222223" r="4" fill="#ffffff" />
+<circle cx="188" cy="210.55555555555554" r="4" fill="#ffffff" />
+<circle cx="296" cy="171.66666666666666" r="4" fill="#ffffff" />
+<circle cx="404" cy="175.55555555555554" r="4" fill="#ffffff" />
+<circle cx="512" cy="195" r="4" fill="#ffffff" />
 <circle cx="620" cy="152.22222222222223" r="4" fill="#ffffff" />
 
   </g>
@@ -62,30 +61,25 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-15
-      </text>
-    
-      <text x="170" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-16
       </text>
     
-      <text x="260" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-17
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-18
       </text>
     
-      <text x="440" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-19
       </text>
     
-      <text x="530" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         09-20
       </text>
