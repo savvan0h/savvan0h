@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-09-21 → 2025-09-27
+    2025-09-22 → 2025-09-28
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,148.94736842105263 L 188,141.57894736842104 L 296,182.10526315789474 L 404,178.42105263157896 L 512,200.5263157894737 L 620,211.57894736842104" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,141.57894736842104 L 188,182.10526315789474 L 296,178.42105263157896 L 404,200.5263157894737 L 512,211.57894736842104 L 620,185.78947368421052" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="148.94736842105263" r="4" fill="#ffffff" />
-<circle cx="188" cy="141.57894736842104" r="4" fill="#ffffff" />
-<circle cx="296" cy="182.10526315789474" r="4" fill="#ffffff" />
-<circle cx="404" cy="178.42105263157896" r="4" fill="#ffffff" />
-<circle cx="512" cy="200.5263157894737" r="4" fill="#ffffff" />
-<circle cx="620" cy="211.57894736842104" r="4" fill="#ffffff" />
+    <circle cx="80" cy="141.57894736842104" r="4" fill="#ffffff" />
+<circle cx="188" cy="182.10526315789474" r="4" fill="#ffffff" />
+<circle cx="296" cy="178.42105263157896" r="4" fill="#ffffff" />
+<circle cx="404" cy="200.5263157894737" r="4" fill="#ffffff" />
+<circle cx="512" cy="211.57894736842104" r="4" fill="#ffffff" />
+<circle cx="620" cy="185.78947368421052" r="4" fill="#ffffff" />
 
   </g>
 
@@ -61,32 +61,32 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-21
+        09-22
       </text>
     
       <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-22
+        09-23
       </text>
     
       <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-23
+        09-24
       </text>
     
       <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-24
+        09-25
       </text>
     
       <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-25
+        09-27
       </text>
     
       <text x="620" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-27
+        09-28
       </text>
     
   </g>
