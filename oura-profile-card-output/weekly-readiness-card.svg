@@ -43,7 +43,7 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,142 L 188,146 L 296,182 L 404,110 L 512,138 L 620,182" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,142 L 188,146 L 296,182 L 404,110 L 512,138 L 620,162" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="142" r="4" fill="#ffffff" />
@@ -51,7 +51,7 @@
 <circle cx="296" cy="182" r="4" fill="#ffffff" />
 <circle cx="404" cy="110" r="4" fill="#ffffff" />
 <circle cx="512" cy="138" r="4" fill="#ffffff" />
-<circle cx="620" cy="182" r="4" fill="#ffffff" />
+<circle cx="620" cy="162" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
