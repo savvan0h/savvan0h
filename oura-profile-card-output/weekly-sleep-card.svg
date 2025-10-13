@@ -43,7 +43,7 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,198.5 L 188,212.5 L 296,121.5 L 404,205.5 L 512,128.5 L 620,177.5" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,198.5 L 188,212.5 L 296,121.5 L 404,205.5 L 512,128.5 L 620,163.5" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
@@ -52,7 +52,7 @@
 <circle cx="296" cy="121.5" r="4" fill="#ffffff" />
 <circle cx="404" cy="205.5" r="4" fill="#ffffff" />
 <circle cx="512" cy="128.5" r="4" fill="#ffffff" />
-<circle cx="620" cy="177.5" r="4" fill="#ffffff" />
+<circle cx="620" cy="163.5" r="4" fill="#ffffff" />
 
   </g>
 
