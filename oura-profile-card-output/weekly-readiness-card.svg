@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-10-08 → 2025-10-14
+    2025-10-09 → 2025-10-15
   </text>
 
   <!-- Chart Area -->
@@ -43,15 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,182 L 188,110 L 296,138 L 404,162 L 512,154 L 620,146" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,110 L 188,138 L 296,162 L 404,154 L 512,146 L 620,178" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="182" r="4" fill="#ffffff" />
-<circle cx="188" cy="110" r="4" fill="#ffffff" />
-<circle cx="296" cy="138" r="4" fill="#ffffff" />
-<circle cx="404" cy="162" r="4" fill="#ffffff" />
-<circle cx="512" cy="154" r="4" fill="#ffffff" />
-<circle cx="620" cy="146" r="4" fill="#ffffff" />
+  <circle cx="80" cy="110" r="4" fill="#ffffff" />
+<circle cx="188" cy="138" r="4" fill="#ffffff" />
+<circle cx="296" cy="162" r="4" fill="#ffffff" />
+<circle cx="404" cy="154" r="4" fill="#ffffff" />
+<circle cx="512" cy="146" r="4" fill="#ffffff" />
+<circle cx="620" cy="178" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -59,32 +59,32 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        10-08
+        10-09
       </text>
     
       <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        10-09
+        10-11
       </text>
     
       <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        10-11
+        10-12
       </text>
     
       <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        10-12
+        10-13
       </text>
     
       <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        10-13
+        10-14
       </text>
     
       <text x="620" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        10-14
+        10-15
       </text>
     
   </g>
