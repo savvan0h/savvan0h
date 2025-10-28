@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-10-21 → 2025-10-27
+    2025-10-22 → 2025-10-27
   </text>
 
   <!-- Chart Area -->
@@ -43,15 +43,14 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,178 L 188,146 L 296,170 L 404,146 L 512,146 L 620,202" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,146 L 215,170 L 350,146 L 485,146 L 620,202" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="178" r="4" fill="#ffffff" />
-<circle cx="188" cy="146" r="4" fill="#ffffff" />
-<circle cx="296" cy="170" r="4" fill="#ffffff" />
-<circle cx="404" cy="146" r="4" fill="#ffffff" />
-<circle cx="512" cy="146" r="4" fill="#ffffff" />
+    <circle cx="80" cy="146" r="4" fill="#ffffff" />
+<circle cx="215" cy="170" r="4" fill="#ffffff" />
+<circle cx="350" cy="146" r="4" fill="#ffffff" />
+<circle cx="485" cy="146" r="4" fill="#ffffff" />
 <circle cx="620" cy="202" r="4" fill="#ffffff" />
 
   </g>
@@ -61,25 +60,20 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        10-21
-      </text>
-    
-      <text x="188" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-22
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="215" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-23
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-24
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="485" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-26
       </text>
