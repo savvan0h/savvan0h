@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-10-26 → 2025-10-30
+    2025-10-26 → 2025-10-31
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,116.48648648648648 L 215,139.18918918918916 L 350,150.54054054054055 L 485,108.9189189189189 L 620,177.02702702702703" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,116.48648648648648 L 188,139.18918918918916 L 296,150.54054054054055 L 404,108.9189189189189 L 512,177.02702702702703 L 620,127.83783783783784" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="116.48648648648648" r="4" fill="#ffffff" />
-<circle cx="215" cy="139.18918918918916" r="4" fill="#ffffff" />
-<circle cx="350" cy="150.54054054054055" r="4" fill="#ffffff" />
-<circle cx="485" cy="108.9189189189189" r="4" fill="#ffffff" />
-<circle cx="620" cy="177.02702702702703" r="4" fill="#ffffff" />
+<circle cx="188" cy="139.18918918918916" r="4" fill="#ffffff" />
+<circle cx="296" cy="150.54054054054055" r="4" fill="#ffffff" />
+<circle cx="404" cy="108.9189189189189" r="4" fill="#ffffff" />
+<circle cx="512" cy="177.02702702702703" r="4" fill="#ffffff" />
+<circle cx="620" cy="127.83783783783784" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -61,24 +62,29 @@
         10-26
       </text>
     
-      <text x="215" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-27
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-28
       </text>
     
-      <text x="485" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-29
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-30
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        10-31
       </text>
     
   </g>
