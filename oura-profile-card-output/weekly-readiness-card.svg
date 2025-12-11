@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-12-04 → 2025-12-09
+    2025-12-05 → 2025-12-09
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,13 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,145.26315789473685 L 188,167.36842105263156 L 296,200.5263157894737 L 404,171.05263157894737 L 512,137.89473684210526 L 620,211.57894736842104" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,167.36842105263156 L 215,200.5263157894737 L 350,171.05263157894737 L 485,137.89473684210526 L 620,211.57894736842104" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
-  <circle cx="80" cy="145.26315789473685" r="4" fill="#ffffff" />
-<circle cx="188" cy="167.36842105263156" r="4" fill="#ffffff" />
-<circle cx="296" cy="200.5263157894737" r="4" fill="#ffffff" />
-<circle cx="404" cy="171.05263157894737" r="4" fill="#ffffff" />
-<circle cx="512" cy="137.89473684210526" r="4" fill="#ffffff" />
+  <circle cx="80" cy="167.36842105263156" r="4" fill="#ffffff" />
+<circle cx="215" cy="200.5263157894737" r="4" fill="#ffffff" />
+<circle cx="350" cy="171.05263157894737" r="4" fill="#ffffff" />
+<circle cx="485" cy="137.89473684210526" r="4" fill="#ffffff" />
 <circle cx="620" cy="211.57894736842104" r="4" fill="#ffffff" />
 
 
@@ -59,25 +58,20 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        12-04
-      </text>
-    
-      <text x="188" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-05
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="215" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-06
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-07
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="485" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-08
       </text>
