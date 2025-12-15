@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2025-12-08 → 2025-12-14
+    2025-12-09 → 2025-12-14
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,129.62264150943398 L 170,179.81132075471697 L 260,140.18867924528303 L 350,142.83018867924528 L 440,216.79245283018867 L 530,211.50943396226415 L 620,187.73584905660377" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,179.81132075471697 L 188,140.18867924528303 L 296,142.83018867924528 L 404,216.79245283018867 L 512,211.50943396226415 L 620,187.73584905660377" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="129.62264150943398" r="4" fill="#ffffff" />
-<circle cx="170" cy="179.81132075471697" r="4" fill="#ffffff" />
-<circle cx="260" cy="140.18867924528303" r="4" fill="#ffffff" />
-<circle cx="350" cy="142.83018867924528" r="4" fill="#ffffff" />
-<circle cx="440" cy="216.79245283018867" r="4" fill="#ffffff" />
-<circle cx="530" cy="211.50943396226415" r="4" fill="#ffffff" />
+    <circle cx="80" cy="179.81132075471697" r="4" fill="#ffffff" />
+<circle cx="188" cy="140.18867924528303" r="4" fill="#ffffff" />
+<circle cx="296" cy="142.83018867924528" r="4" fill="#ffffff" />
+<circle cx="404" cy="216.79245283018867" r="4" fill="#ffffff" />
+<circle cx="512" cy="211.50943396226415" r="4" fill="#ffffff" />
 <circle cx="620" cy="187.73584905660377" r="4" fill="#ffffff" />
 
   </g>
@@ -62,30 +61,25 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        12-08
-      </text>
-    
-      <text x="170" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-09
       </text>
     
-      <text x="260" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-10
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-11
       </text>
     
-      <text x="440" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-12
       </text>
     
-      <text x="530" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         12-13
       </text>
