@@ -19,23 +19,23 @@
   <!-- Dotted Threshold Lines & Labels -->
   <g id="extra-lines">
     
-        <line x1="80" y1="192.4390243902439" x2="620" y2="192.4390243902439"
+        <line x1="80" y1="206.66666666666666" x2="620" y2="206.66666666666666"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="196.4390243902439" text-anchor="start"
+        <text x="630" y="210.66666666666666" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           60 (Fair)
         </text>
       
-        <line x1="80" y1="158.2926829268293" x2="620" y2="158.2926829268293"
+        <line x1="80" y1="167.77777777777777" x2="620" y2="167.77777777777777"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="162.2926829268293" text-anchor="start"
+        <text x="630" y="171.77777777777777" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           70 (Good)
         </text>
       
-        <line x1="80" y1="107.07317073170732" x2="620" y2="107.07317073170732"
+        <line x1="80" y1="109.44444444444444" x2="620" y2="109.44444444444444"
               stroke="#bbbbbb" stroke-width="1" stroke-dasharray="3,3" />
-        <text x="630" y="111.07317073170732" text-anchor="start"
+        <text x="630" y="113.44444444444444" text-anchor="start"
               font-size="12" fill="#bbbbbb" font-family="Arial, sans-serif">
           85 (Optimal)
         </text>
@@ -43,16 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,120.73170731707317 L 188,195.85365853658536 L 296,171.9512195121951 L 404,134.390243902439 L 512,185.609756097561 L 620,212.9268292682927" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,125 L 188,210.55555555555554 L 296,183.33333333333334 L 404,140.55555555555554 L 512,198.88888888888889 L 620,152.22222222222223" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="120.73170731707317" r="4" fill="#ffffff" />
-<circle cx="188" cy="195.85365853658536" r="4" fill="#ffffff" />
-<circle cx="296" cy="171.9512195121951" r="4" fill="#ffffff" />
-<circle cx="404" cy="134.390243902439" r="4" fill="#ffffff" />
-<circle cx="512" cy="185.609756097561" r="4" fill="#ffffff" />
-<circle cx="620" cy="212.9268292682927" r="4" fill="#ffffff" />
+    <circle cx="80" cy="125" r="4" fill="#ffffff" />
+<circle cx="188" cy="210.55555555555554" r="4" fill="#ffffff" />
+<circle cx="296" cy="183.33333333333334" r="4" fill="#ffffff" />
+<circle cx="404" cy="140.55555555555554" r="4" fill="#ffffff" />
+<circle cx="512" cy="198.88888888888889" r="4" fill="#ffffff" />
+<circle cx="620" cy="152.22222222222223" r="4" fill="#ffffff" />
 
   </g>
 
@@ -96,27 +96,27 @@
     
       <text x="70" y="234" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        49
+        54
       </text>
     
       <text x="70" y="206" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        57
+        61
       </text>
     
       <text x="70" y="178" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        65
+        68
       </text>
     
       <text x="70" y="150" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        74
+        76
       </text>
     
       <text x="70" y="122" text-anchor="end"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        82
+        83
       </text>
     
       <text x="70" y="94" text-anchor="end"
