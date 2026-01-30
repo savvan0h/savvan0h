@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2026-01-24 → 2026-01-29
+    2026-01-24 → 2026-01-30
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,153.91304347826087 L 188,166.08695652173913 L 296,169.1304347826087 L 404,214.7826086956522 L 512,196.52173913043478 L 620,178.2608695652174" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,153.91304347826087 L 170,166.08695652173913 L 260,169.1304347826087 L 350,214.7826086956522 L 440,196.52173913043478 L 530,178.2608695652174 L 620,178.2608695652174" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="153.91304347826087" r="4" fill="#ffffff" />
-<circle cx="188" cy="166.08695652173913" r="4" fill="#ffffff" />
-<circle cx="296" cy="169.1304347826087" r="4" fill="#ffffff" />
-<circle cx="404" cy="214.7826086956522" r="4" fill="#ffffff" />
-<circle cx="512" cy="196.52173913043478" r="4" fill="#ffffff" />
+<circle cx="170" cy="166.08695652173913" r="4" fill="#ffffff" />
+<circle cx="260" cy="169.1304347826087" r="4" fill="#ffffff" />
+<circle cx="350" cy="214.7826086956522" r="4" fill="#ffffff" />
+<circle cx="440" cy="196.52173913043478" r="4" fill="#ffffff" />
+<circle cx="530" cy="178.2608695652174" r="4" fill="#ffffff" />
 <circle cx="620" cy="178.2608695652174" r="4" fill="#ffffff" />
 
 
@@ -62,29 +63,34 @@
         01-24
       </text>
     
-      <text x="188" y="245" text-anchor="middle"
+      <text x="170" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         01-25
       </text>
     
-      <text x="296" y="245" text-anchor="middle"
+      <text x="260" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         01-26
       </text>
     
-      <text x="404" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         01-27
       </text>
     
-      <text x="512" y="245" text-anchor="middle"
+      <text x="440" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         01-28
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="530" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         01-29
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        01-30
       </text>
     
   </g>
