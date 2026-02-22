@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2026-02-16 → 2026-02-21
+    2026-02-16 → 2026-02-22
   </text>
 
   <!-- Chart Area -->
@@ -43,15 +43,16 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,132.60869565217394 L 215,205.65217391304347 L 350,211.73913043478262 L 485,135.6521739130435 L 620,214.7826086956522" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,132.60869565217394 L 188,205.65217391304347 L 296,211.73913043478262 L 404,135.6521739130435 L 512,214.7826086956522 L 620,181.30434782608697" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
     <circle cx="80" cy="132.60869565217394" r="4" fill="#ffffff" />
-<circle cx="215" cy="205.65217391304347" r="4" fill="#ffffff" />
-<circle cx="350" cy="211.73913043478262" r="4" fill="#ffffff" />
-<circle cx="485" cy="135.6521739130435" r="4" fill="#ffffff" />
-<circle cx="620" cy="214.7826086956522" r="4" fill="#ffffff" />
+<circle cx="188" cy="205.65217391304347" r="4" fill="#ffffff" />
+<circle cx="296" cy="211.73913043478262" r="4" fill="#ffffff" />
+<circle cx="404" cy="135.6521739130435" r="4" fill="#ffffff" />
+<circle cx="512" cy="214.7826086956522" r="4" fill="#ffffff" />
+<circle cx="620" cy="181.30434782608697" r="4" fill="#ffffff" />
 
   </g>
 
@@ -63,24 +64,29 @@
         02-16
       </text>
     
-      <text x="215" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         02-17
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         02-19
       </text>
     
-      <text x="485" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         02-20
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         02-21
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        02-22
       </text>
     
   </g>
