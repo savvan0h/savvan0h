@@ -7,7 +7,7 @@
     Readiness Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2026-06-10 → 2026-06-14
+    2026-06-10 → 2026-06-16
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,125.8974358974359 L 215,111.53846153846153 L 350,151.02564102564102 L 485,107.94871794871794 L 620,161.7948717948718" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 80,125.8974358974359 L 188,111.53846153846153 L 296,151.02564102564102 L 404,107.94871794871794 L 512,161.7948717948718 L 620,147.43589743589743" fill="none" stroke="#ffffff" stroke-width="2"/>
 
   <!-- Data Points -->
   <circle cx="80" cy="125.8974358974359" r="4" fill="#ffffff" />
-<circle cx="215" cy="111.53846153846153" r="4" fill="#ffffff" />
-<circle cx="350" cy="151.02564102564102" r="4" fill="#ffffff" />
-<circle cx="485" cy="107.94871794871794" r="4" fill="#ffffff" />
-<circle cx="620" cy="161.7948717948718" r="4" fill="#ffffff" />
+<circle cx="188" cy="111.53846153846153" r="4" fill="#ffffff" />
+<circle cx="296" cy="151.02564102564102" r="4" fill="#ffffff" />
+<circle cx="404" cy="107.94871794871794" r="4" fill="#ffffff" />
+<circle cx="512" cy="161.7948717948718" r="4" fill="#ffffff" />
+<circle cx="620" cy="147.43589743589743" r="4" fill="#ffffff" />
 
 
   <!-- X-axis Tick Labels -->
@@ -61,24 +62,29 @@
         06-10
       </text>
     
-      <text x="215" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-11
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-12
       </text>
     
-      <text x="485" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-13
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         06-14
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        06-16
       </text>
     
   </g>
