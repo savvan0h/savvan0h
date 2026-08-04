@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2026-07-31 → 2026-08-03
+    2026-07-31 → 2026-08-04
   </text>
 
   <!-- Chart Area -->
@@ -43,14 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,219.0625 L 260,160 L 440,138.125 L 620,133.75" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,219.0625 L 215,160 L 350,138.125 L 485,133.75 L 620,140.3125" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
     <circle cx="80" cy="219.0625" r="4" fill="#ffffff" />
-<circle cx="260" cy="160" r="4" fill="#ffffff" />
-<circle cx="440" cy="138.125" r="4" fill="#ffffff" />
-<circle cx="620" cy="133.75" r="4" fill="#ffffff" />
+<circle cx="215" cy="160" r="4" fill="#ffffff" />
+<circle cx="350" cy="138.125" r="4" fill="#ffffff" />
+<circle cx="485" cy="133.75" r="4" fill="#ffffff" />
+<circle cx="620" cy="140.3125" r="4" fill="#ffffff" />
 
   </g>
 
@@ -62,19 +63,24 @@
         07-31
       </text>
     
-      <text x="260" y="245" text-anchor="middle"
+      <text x="215" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-01
       </text>
     
-      <text x="440" y="245" text-anchor="middle"
+      <text x="350" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-02
       </text>
     
-      <text x="620" y="245" text-anchor="middle"
+      <text x="485" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         08-03
+      </text>
+    
+      <text x="620" y="245" text-anchor="middle"
+            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
+        08-04
       </text>
     
   </g>
