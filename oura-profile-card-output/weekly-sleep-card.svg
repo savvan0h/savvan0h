@@ -7,7 +7,7 @@
     Sleep Score
   </text>
   <text x="20" y="70" font-size="18" fill="#cccccc" font-family="Arial, sans-serif">
-    2026-09-30 → 2026-10-06
+    2026-10-01 → 2026-10-06
   </text>
 
   <!-- Chart Area -->
@@ -43,16 +43,15 @@
   </g>
 
   <!-- Main Line Chart Path -->
-  <path d="M 80,134.68085106382978 L 170,176.38297872340425 L 260,131.70212765957447 L 350,215.10638297872342 L 440,146.59574468085106 L 530,104.8936170212766 L 620,194.25531914893617" fill="none" stroke="#6B8EFF" stroke-width="2"/>
+  <path d="M 80,176.38297872340425 L 188,131.70212765957447 L 296,215.10638297872342 L 404,146.59574468085106 L 512,104.8936170212766 L 620,194.25531914893617" fill="none" stroke="#6B8EFF" stroke-width="2"/>
 
   <!-- Data Points -->
   <g fill="#ffffff">
-    <circle cx="80" cy="134.68085106382978" r="4" fill="#ffffff" />
-<circle cx="170" cy="176.38297872340425" r="4" fill="#ffffff" />
-<circle cx="260" cy="131.70212765957447" r="4" fill="#ffffff" />
-<circle cx="350" cy="215.10638297872342" r="4" fill="#ffffff" />
-<circle cx="440" cy="146.59574468085106" r="4" fill="#ffffff" />
-<circle cx="530" cy="104.8936170212766" r="4" fill="#ffffff" />
+    <circle cx="80" cy="176.38297872340425" r="4" fill="#ffffff" />
+<circle cx="188" cy="131.70212765957447" r="4" fill="#ffffff" />
+<circle cx="296" cy="215.10638297872342" r="4" fill="#ffffff" />
+<circle cx="404" cy="146.59574468085106" r="4" fill="#ffffff" />
+<circle cx="512" cy="104.8936170212766" r="4" fill="#ffffff" />
 <circle cx="620" cy="194.25531914893617" r="4" fill="#ffffff" />
 
   </g>
@@ -62,30 +61,25 @@
     
       <text x="80" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
-        09-30
-      </text>
-    
-      <text x="170" y="245" text-anchor="middle"
-            font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-01
       </text>
     
-      <text x="260" y="245" text-anchor="middle"
+      <text x="188" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-02
       </text>
     
-      <text x="350" y="245" text-anchor="middle"
+      <text x="296" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-03
       </text>
     
-      <text x="440" y="245" text-anchor="middle"
+      <text x="404" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-04
       </text>
     
-      <text x="530" y="245" text-anchor="middle"
+      <text x="512" y="245" text-anchor="middle"
             font-size="12" fill="#ffffff" font-family="Arial, sans-serif">
         10-05
       </text>
